@@ -1,0 +1,6 @@
+Machine Learning classifiers implementations:
+
+1. density estimation
+
+2. svm + tree (decision tree where splits are done using svm hyperplane instead of simple cuts along one of the axes)
+
